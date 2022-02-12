@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrisnaErlangga
+- 👋 Hi, I’m Krisna Erlangga
 - 👀 I’m interested in App Development and UI/UX Design
 - 🌱 I’m currently learning Flutter and love designing in Figma
 - 📫 How to reach me via krisnaerlangga08@gmail.com
