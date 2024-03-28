@@ -4,7 +4,7 @@ Hi I'm a passionate final year Computer Engineering student at Institute Technol
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px" alt="hi"> Technologies I've been using</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,html,css,tailwind,js,nodejs,express,firebase,py,tensorflow,c,cpp,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,html,css,tailwind,js,nodejs,express,firebase,py,tensorflow,c,cpp,figma,notion,latex" />
   </a>
 </p>
 
