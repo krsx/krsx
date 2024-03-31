@@ -1,3 +1,5 @@
+![universal-personal-banner](https://github.com/DemiWatch/DemiWatch-Android/assets/93714371/c6d93649-9fae-41d4-8362-48d6028c338c)
+
 <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> Hello there</h2>
 Hi I'm a passionate final year Computer Engineering student at Institute Technology Sepuluh Nopember (ITS) specializing in Android and Multiplatform Application Development with a comprehensive skill in UI/UX design. Driven to learn and grow, I am eager to leverage my skills and contribute to the dynamic and ever-evolving tech industry.
 
