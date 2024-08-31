@@ -13,4 +13,4 @@ Final-year Computer Engineering student at the Institute Technology Sepuluh Nope
 <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20px" alt="hi"> Don't be a stranger</h2>
 Thanks for stopping by, don't be hesitate to contact me through <a href="https://www.linkedin.com/in/krisna-erlangga">LinkedIn</a> or <a href="mailto:krisnaerlangga08@gmail.com">Email</a>.
 
-[![personal-porto-banner](krsx-porto.png)](https://krsx-dev.framer.website/)
+[![personal-porto-banner](krsx-porto.png)](https://krsx.vercel.app/)
